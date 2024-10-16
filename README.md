@@ -32,3 +32,9 @@ Here are some ideas to get you started:
 ![](profile-3d-contrib/profile-night-rainbow.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IsTheJack&theme=dark&hide_border=true&card_width=850&card_height=300&background=20283000)](https://git.io/streak-stats)
+
+---
+
+Thanks again for visiting my profile. I'll repay you with a random nerd joke 🤓:
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
