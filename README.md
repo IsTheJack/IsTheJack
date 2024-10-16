@@ -2,6 +2,12 @@
 
 I'm a full-stack software engineer specializing in **Node**, **JavaScript**, **TypeScript**, **React**, and **React Native**, but I'm open to working with any technology that makes sense for the project.
 
+Some tools I use to do nice stuff:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,nodejs,typescript,react,vue,nextjs,nuxtjs,jest,cypress,figma,nestjs,prisma,mysql,firebase,github,vercel)](https://skillicons.dev)
+
+`html,css,sass,javascript,nodejs,typescript,react,vue,nextjs,nuxtjs,jest,cypress,figma,nestjs,prisma,mysql,firebase,github,vercel`
+
 Before being a **full-stack engineer** building web apps, I see myself as a developer, and even before that, as a problem solver. I love digging deep into domains and coming up with practical solutions tailored to each project’s specifics.
 
 Being full-stack means I'm ready to build end-to-end solutions. But I consider myself a bit different—I prefer using straightforward tools to quickly push high-quality code to production, with CI, tests, and other quality checks. At the same time, I enjoy the creative side of development and can handle UX/UI work using tools like Figma.
