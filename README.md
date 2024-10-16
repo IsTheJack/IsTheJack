@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ![](profile-3d-contrib/profile-night-rainbow.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IsTheJack&theme=dark&hide_border=true&card_width=501&card_height=250)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IsTheJack&theme=dark&hide_border=true&card_width=850&card_height=300&background=202830)](https://git.io/streak-stats)
